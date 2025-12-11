@@ -37,24 +37,24 @@ The project uses the **Olivetti Faces Dataset**, which contains:
 
 ## Installation
 
-\\\ash
+\\\Bash
 pip install -r requirements.txt
 \\\
 
 ## Usage
 
 ### Task-01: PCA-based Recognition
-\\\ash
+\\\Bash
 python Task-01/PCA.py
 \\\
 
 ### Task-02: Deep Learning
-\\\ash
+\\\Bash
 python Task-02/DeepLearning.py
 \\\
 
 ### Final Project
-\\\ash
+\\\Bash
 python "Dataset and Program/FinalProj.py"
 \\\
 
@@ -80,7 +80,7 @@ The models are evaluated using:
 
 ## Author
 
-[Your Name/University]
+Farooq Ahmad 17L-4407
 
 ## License
 
